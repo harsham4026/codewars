@@ -1,2 +1,2 @@
-# codewars
-My solutions to Codewars Kata
+# Codewars
+My solutions to [Codewars](https://www.codewars.com).
