@@ -1,2 +1,2 @@
 # Codewars
-My solutions to [Codewars](https://www.codewars.com).
+My solutions to problems on [Codewars](https://www.codewars.com).
