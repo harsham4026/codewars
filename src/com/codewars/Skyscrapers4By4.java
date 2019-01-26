@@ -6,6 +6,9 @@ import java.util.Arrays;
 import java.util.Map;
 import java.util.HashMap;
 
+/**
+ * https://www.codewars.com/kata/4-by-4-skyscrapers
+ */
 public class Skyscrapers4By4 {
     static int[][] solvePuzzle(int[] clues) {
         int[][] res = new int[4][4];

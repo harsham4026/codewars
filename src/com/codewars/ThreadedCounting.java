@@ -4,6 +4,9 @@ import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.atomic.AtomicInteger;
 
+/**
+ * https://www.codewars.com/kata/threaded-counting
+ */
 public class ThreadedCounting {
     private static CyclicBarrier barrier;
     //Using AtomicInteger to avoid "Non atomic operation warning" when using primitive int
