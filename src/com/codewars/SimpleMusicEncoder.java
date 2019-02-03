@@ -2,6 +2,9 @@ package com.codewars;
 
 import java.util.stream.IntStream;
 
+/**
+ * https://www.codewars.com/kata/a-simple-music-encoder
+ */
 public class SimpleMusicEncoder {
     public String compress(int[] raw) {
         StringBuilder builder = new StringBuilder();
