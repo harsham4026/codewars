@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.HashMap;
 
 /**
- * https://www.codewars.com/kata/tv-remote-symbols
+ * https://www.codewars.com/kata/tv-remote
  */
 public class TVRemote {
 
