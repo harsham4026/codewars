@@ -1,6 +1,9 @@
 package com.codewars;
 
 
+/**
+ * https://www.codewars.com/kata/pattern-generator
+ */
 public class PatternGenerator {
     public static String patternGenerator(int c) {
         if (c < 1) {

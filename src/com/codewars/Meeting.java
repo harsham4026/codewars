@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.stream.Collectors;
 
+/**
+ * https://www.codewars.com/kata/meeting
+ */
 class Meeting {
     public static String meeting(String s) {
         return Arrays.stream(s.toUpperCase().split(";"))
