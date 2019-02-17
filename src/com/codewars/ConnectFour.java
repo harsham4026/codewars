@@ -5,8 +5,10 @@ import java.util.List;
 import java.util.function.IntUnaryOperator;
 import java.util.function.Predicate;
 
+/**
+ * https://www.codewars.com/kata/connect-four-1
+ */
 public class ConnectFour {
-
     public static String whoIsWinner(List<String> piecesPositionList) {
         String[][] grid = new String[6][7];
 
