@@ -6,6 +6,9 @@ import java.util.function.Function;
 import java.util.Map;
 import java.util.HashMap;
 
+/**
+ * https://www.codewars.com/kata/greed-is-good
+ */
 public class GreedIsGood {
     private static final Map<Integer, Integer> diceScores = new HashMap<>();
     static {
