@@ -3,6 +3,9 @@ package com.codewars;
 import java.util.Map;
 import java.util.HashMap;
 
+/**
+ * https://www.codewars.com/kata/alphabet-war-airstrike-letters-massacre/
+ */
 public class AlphabetWarAirstrike {
 
     public static String alphabetWar(String fight) {
