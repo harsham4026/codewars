@@ -1,6 +1,5 @@
 package com.codewars;
 
-import rx.Observable;
 
 import java.util.Map;
 import java.util.HashMap;
@@ -49,7 +48,6 @@ public class ParseIntReloaded {
         hundreds.put("thousand", 1000);
         hundreds.put("million", 1000000);
     }
-    Observable
 
     public static int parseInt(String numStr) {
         int result = 0;
